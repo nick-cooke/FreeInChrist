@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FreeInChrist
-- 👀 I’m interested in functional programming.
+- 👋 Hi, I’m @nick-cooke
+- 👀 I’m interested in functional programming and automation.
 - 🙈 I'm a Software Developer who works with LISP, VBA, and HTML.
 - 🌱 I’m currently learning Java.
