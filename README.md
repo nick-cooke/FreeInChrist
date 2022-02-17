@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FreeInChrist
 - 👀 I’m interested in functional programming.
-- 🙈 I'm a LISP Software Developer.
-- 🌱 I’m currently learning Clojure.
+- 🙈 I'm a Software Developer who works with LISP, VBA, and HTML.
+- 🌱 I’m currently learning Java.
